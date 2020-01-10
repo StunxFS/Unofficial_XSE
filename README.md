@@ -1,5 +1,7 @@
 Unofficial_XSE
-==============
-Created by: HackMew
+===============
 
-I fixed the searching for free space in Emerald and made it not check for updates since HackMew's server no longer exists.
+A fork to do research on the XSE source code. The original repository belongs to Gamer2020.
+
+## What will you do with this?
+Use it to do research and tests.
